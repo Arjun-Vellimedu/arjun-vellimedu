@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arjun Vellimedu</h1>
 <h3 align="center">A computer science student at Northeastern University</h3>
 
-- 🔭 I’m currently working on [Python Financial Dashboard](https://github.com/Arjun-Vellimedu/Python-Financial-Dashboard)
+- 🔭 I’m currently working on: [Python Financial Dashboard](https://github.com/Arjun-Vellimedu/Python-Financial-Dashboard)
 
-- 🌱 I’m currently learning **full-stack development, including TypeScript, React, REST APIs, and MongoDB**
+- 🌱 I’m currently learning: **full-stack development, including TypeScript, React, REST APIs, and MongoDB**
 
-- 📫 How to reach me **arjunvel11@gmail.com**
+- 📫 How to reach me: **arjunvel11@gmail.com**
 
-- ⚡ Fun fact **I like playing ultimate frisbee :)**
+- ⚡ Fun fact: **I like playing ultimate frisbee :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
