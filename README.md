@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Vellimedu</h1>
 <h3 align="center">A computer science student at Northeastern University</h3>
 
-- 🔭 I’m currently working on: [Python Financial Dashboard](https://github.com/Arjun-Vellimedu/Python-Financial-Dashboard)
+- 🔭 I’m currently working on: [ai-cost-dashboard](https://github.com/Arjun-Vellimedu/AI-Cost-Dashboard)
 
 - 🌱 I’m currently learning: **full-stack development, including TypeScript, React, REST APIs, and MongoDB**
 
