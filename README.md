@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun Vellimedu</h1>
 <h3 align="center">A computer science student at Northeastern University</h3>
 
-- 🔭 I’m currently working on: [ai-cost-dashboard](https://github.com/Arjun-Vellimedu/AI-Cost-Dashboard)
+- 🔭 I’m currently working on: private repos!
 
-- 🌱 I’m currently learning: **full-stack development, including TypeScript, React, REST APIs, and MongoDB**
+- 🌱 I’m currently learning: **backend development, including Go, Distributed Systems Concepts, and other tools (e.g. Prometheus, Grafana, Terraform)**
 
 - 📫 How to reach me: **arjunvel11@gmail.com**
 
