@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: private repos!
 
-- 🌱 I’m currently learning: Anything and everything! I want to expose myself to everything I can and see what sticks.
+- 🌱 I’m currently learning: anything and everything! I want to expose myself to everything I can and see what sticks.
 
 - 📫 How to reach me: **arjunvel11@gmail.com**
 
